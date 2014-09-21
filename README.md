@@ -19,7 +19,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The run_analysis script extracts and combines mean and standard deviation
 variables from the original X_train and X_test tables provided by UCI.  A description 
-of variable names is found in the CodeBook.md file (LINK TO CODEBOOK).
+of variable names is found in the CodeBook.md file.
 
 ##Workflow
 **1. Original tables from 'UCI HAR Dataset' folder read into R**
