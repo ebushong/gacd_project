@@ -295,4 +295,4 @@ Average Mean of Frequency Domain Body Gyroscopic Jerk Magnitude
 
 **68. mean_frequency_BodyGyroJerkMag_std**
 
-Average Standard Devaiation of Frequency Domain Body Gyroscopic Jerk Magnitude
+Average Standard Deviation of Frequency Domain Body Gyroscopic Jerk Magnitude
